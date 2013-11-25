@@ -1,5 +1,5 @@
-Accarousel Demo
-===============
+Accarousel
+==========
 
 jQuery plugin with Accordion and Carousel behavior
 
