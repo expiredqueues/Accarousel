@@ -1,0 +1,28 @@
+{
+  "name": "Accarousel",
+  "version": "1.0.1",
+  "homepage": "https://github.com/expiredqueues/Accarousel",
+  "authors": [
+    "Adrian Noel"
+  ],
+  "description": "jQuery plugin with Accordion and Carousel behavior",
+  "main": "jquery.cjAccarousel.js",
+  "keywords": [
+    "jQuery",
+    "JavaScript",
+    "Plugin",
+    "Acccordion",
+    "Carousel"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
