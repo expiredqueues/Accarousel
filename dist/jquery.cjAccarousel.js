@@ -1,3 +1,6 @@
+/*! jquery.cjAccarousel - v1.0.1 - 2015-06-14
+* https://github.com/expiredqueues/Accarousel
+* Copyright (c) 2015 ; Licensed  */
 ;(function ($) {
 
     $.fn.cjAccarousel = function (settings) {
