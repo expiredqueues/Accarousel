@@ -8,7 +8,7 @@ jQuery plugin with Accordion and Carousel behavior. This plugin consist both car
  - All Standard Browsers (Chrome, Firefox, Safari etc)
  - And Internet Explorer 8+
 
-##Links
+## Links
   - Demo: http://expiredqueues.github.io/Accarousel/
   - Blog post: https://www.expiredqueues.com/jquery-accordion-carousel-plugin/
 
